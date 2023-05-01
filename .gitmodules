@@ -8,8 +8,3 @@
 	url = https://github.com/cran/PeriodicTable
 	shallow = true
 	registered = true
-[submodule "Rpdb"]
-	path = Rpdb
-	url = https://github.com/cran/Rpdb
-	shallow = true
-	registered = true
